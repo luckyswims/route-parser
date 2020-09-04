@@ -23,6 +23,12 @@
   color: white;
 }
 
+form{
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
 .display {
   align-items: center;
   display: flex;
@@ -30,6 +36,10 @@
   justify-content: center;
 }
 
+img {
+  height: 10vw;
+  widows: 10vw;
+}
 p {
   width: 70vw;
 }
